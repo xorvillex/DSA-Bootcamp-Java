@@ -1,8 +1,8 @@
 [Video Link](https://youtu.be/lhELGQAV4gg)
 
 ## Create flowchart and pseudocode for the following:
-
-1. Input a year and find whether it is a leap year or not.(https://blog.devgenius.io/flowcharts-pseudocodes-and-programs-to-get-you-started-in-c-88c5582af662)
+Answers(https://blog.devgenius.io/flowcharts-pseudocodes-and-programs-to-get-you-started-in-c-88c5582af662)
+1. Input a year and find whether it is a leap year or not.
 2. Take two numbers and print the sum of both.
 3. Take a number as input and print the multiplication table for it.
 4. Take 2 numbers as inputs and find their HCF and LCM.
